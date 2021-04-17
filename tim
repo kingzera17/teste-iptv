@@ -1,4 +1,10 @@
 #EXTM3U
+208.67.222.222
+208.67.220.220
+http://208.67.222.222
+http://208.67.220.220
+https://208.67.222.222
+https://08.67.220.220
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name=" RECORD RS HD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos", RECORD RS HD 
 http://udq.me:80/live/Q1gU4/6Hm9m/52482.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24HS: AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://cinexplay.com/img/series/d396ecd357736ad9780ec13515b75ba7.png" group-title="Canais | 24 Horas",24HS: AS AVENTURAS DE JACKIE CHAN
