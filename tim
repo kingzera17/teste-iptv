@@ -1,10 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="informações",
+#EXTINF:-1 group-title="informações",
+http://0.0.0.2
+#EXTINF:-1 group-title="informações", 
+167.114.97.183
+#EXTINF:-1 group-title="informações",
 208.67.222.222
+#EXTINF:-1 group-title="informações",
 208.67.220.220
-http://208.67.222.222
-http://208.67.220.220
-https://208.67.222.222
-https://08.67.220.220
 
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name=" RECORD RS HD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos", RECORD RS HD 
