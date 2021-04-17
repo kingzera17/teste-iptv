@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="informações",
 #EXTINF:-1 group-title="informações",
-http://0.0.0.0
+http://0.0.0.2
+#EXTINF:-1 group-title="informações", 
+167.114.97.183
 
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD
