@@ -7,7 +7,8 @@ http://0.0.0.2
 http://0.0.0.3
 #EXTINF:-1 group-title="informações", atualizada 27/02
 http://0.0.0.4
-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", Discovery turbo - TV Jornal (PE)
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryturbosd/video.m3u8?md5=cgBzbAtEAJ72pEhrxHwE8g&expires=1618744841
 #EXTINF:-1 group-title="Loading",Loading FHD
 https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
 #EXTINF:-1 group-title="Loading",Loading HD
