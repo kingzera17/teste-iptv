@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="informações",
+#EXTINF:-1 group-title="informações",
+http://0.0.0.2
+#EXTINF:-1 group-title="informações", 
+208.67.222.222
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
 https://listaiptv.gratis/site.mp4
