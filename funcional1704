@@ -8,6 +8,4 @@ http://0.0.0.3
 #EXTINF:-1 group-title="informações", atualizada 27/02
 http://0.0.0.4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", Discovery turbo - TV Jornal (PE)
-http://tinyurl.com/y4s6mjfa
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", Discovery turbo - TV Jornal (PE)
-http://bit.ly/PJT2018
+http://127.0.0.1:56743/s/stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w435462020.m3u8
